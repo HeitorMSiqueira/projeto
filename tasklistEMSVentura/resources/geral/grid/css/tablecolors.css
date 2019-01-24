@@ -1,0 +1,22 @@
+.table-black {
+    color: #fff;
+    background-color: #212529;
+}
+
+.table-blue {
+    background-color: #b8daff;
+}
+
+.table-green {
+    background-color: #c3e6cb;
+}
+
+
+.table-gradient-dark {
+    background: linear-gradient(to bottom, #525252, #3d72b4);
+    color : #fff;
+}
+
+.table-gray{
+    background-color: #dee2e6;
+}
